@@ -1,0 +1,26 @@
+.studentTable {
+    border-width: 0.2px;
+    border-color: white;
+}
+td{
+    padding: 10px;
+}
+.sno{
+    background-color: aqua;
+    color: black;
+    font-weight: bolder;
+}
+.name{
+    background-color:chartreuse;
+    color: black;
+    font-weight: bolder;
+}
+.shift{
+    background-color: darkorange;
+    color: black;
+    font-weight: bolder;
+}
+th{
+    padding: 10px;
+    background-color: cyan;
+}

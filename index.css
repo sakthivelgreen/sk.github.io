@@ -1,0 +1,21 @@
+a{  
+    text-align: left;
+    font-size: 20sp;
+    color: #000;
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+a:hover{
+    color: chartreuse;
+}
+li a:hover{
+    color: aqua;
+}
+#nav_links{
+ 
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
